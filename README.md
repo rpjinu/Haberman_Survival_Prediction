@@ -16,6 +16,6 @@ Attribute Information:
    3. Number of positive axillary nodes detected (numerical)
 
 Target:
-   4. Survival status (class attribute)
+   4. Survival status (class attribute)\
          1 = the patient survived 5 years or longer\
          2 = the patient died within 5 year
